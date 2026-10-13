@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Главный хаб -->
+  <url>
+    <loc>https://daniilproduction.com/</loc>
+  </url>
+  <url>
+    <loc>https://daniilproduction.com/privacy.html</loc>
+  </url>
+
+  <!-- I. Division -->
+  <url>
+    <loc>https://division.daniilproduction.com/</loc>
+  </url>
+  <url>
+    <loc>https://division.daniilproduction.com/ru/</loc>
+  </url>
+
+  <!-- II. Creation -->
+  <url>
+    <loc>https://creation.daniilproduction.com/</loc>
+  </url>
+  <url>
+    <loc>https://creation.daniilproduction.com/ru/</loc>
+  </url>
+
+  <!-- III. Continue -->
+  <url>
+    <loc>https://continue.daniilproduction.com/</loc>
+  </url>
+  <url>
+    <loc>https://continue.daniilproduction.com/ru/</loc>
+  </url>
+
+  <!-- Metro -->
+  <url>
+    <loc>https://metro.daniilproduction.com/</loc>
+  </url>
+  <url>
+    <loc>https://metro.daniilproduction.com/ru/</loc>
+  </url>
+</urlset>
